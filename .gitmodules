@@ -1,12 +1,12 @@
 [submodule "CFT_algorithms"]
 	path = CFT_algorithms
-	url = https://EYPL@dev.azure.com/EYPL/Collaborative%20Forecasting%20Tool/_git/CFT_algorithms
+	url = ../CFT_algorithms
 [submodule "CFT_etl"]
 	path = CFT_etl
-	url = https://EYPL@dev.azure.com/EYPL/Collaborative%20Forecasting%20Tool/_git/CFT_ETL
+	url = ../CFT_ETL
 [submodule "cft_frontend"]
 	path = cft_frontend
-	url = https://EYPL@dev.azure.com/EYPL/Collaborative%20Forecasting%20Tool/_git/CFT_frontend
+	url = ../CFT_frontend
 [submodule "cft_main_app"]
 	path = cft_main_app
-	url = https://EYPL@dev.azure.com/EYPL/Collaborative%20Forecasting%20Tool/_git/CFT_main_backend
+	url = ../CFT_main_backend
